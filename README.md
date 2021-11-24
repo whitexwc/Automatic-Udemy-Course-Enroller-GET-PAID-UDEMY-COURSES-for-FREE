@@ -26,12 +26,6 @@ In case of any bugs or issues, please open an issue in github.
 
 Also, don't forget to **Fork & Star the repository if you like it!**
 
-**_We are also on [GitLab](https://gitlab.com/the-automators/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)_**
-
-**_Video Proof:_**
-
-[![Udemy Auto-Course-Enroller](https://img.youtube.com/vi/tdLsVoraMxw/0.jpg)](https://www.youtube.com/watch?v=tdLsVoraMxw "GET Udemy Courses for FREE with Python | 2 Minute Tuesday")
-
 ---
 
 ** **_Disclaimer & WARNINGS:_**
@@ -120,7 +114,7 @@ Total Enrolments:           1705
 Savings:                    €2674.44
 ================== Run Statistics ==================
 ```
-	
+
 
 ---
 
